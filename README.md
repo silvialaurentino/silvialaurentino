@@ -48,6 +48,7 @@
 <div align="center"> 
  	<a href="http://silvialaurentino.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
  	<a href="https://silvialaurentino.substack.com/" target="_blank"><img src="https://img.shields.io/badge/Newsletter-%23333?style=for-the-badge&logo=substack&logoColor=white" target="_blank"></a>
+    <a href="https://steamcommunity.com/id/ketolow" target="_blank"><img src="https://img.shields.io/badge/Steam-%23333?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
     <a href="https://www.flickr.com/photos/ketolow/" target="_blank"><img src="https://img.shields.io/badge/Flickr-%23333?style=for-the-badge&logo=flickr&logoColor=white" target="_blank"></a> 
     <a href = "mailto:silvialaurentinc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://t.me/ketolow" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=white" /></a>
